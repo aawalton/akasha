@@ -20,7 +20,7 @@ import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-rep
 
 const PREFIX = "[harness-credential-script-text]"
 
-const HARNESS_PREFIX = "packages/shared/browser-test-harness/"
+const HARNESS_PREFIX = "shared/browser-test-harness/"
 
 function inScope(rel: string): boolean {
   if (rel.endsWith(".d.ts")) return false
