@@ -7,7 +7,8 @@ import { toolArgv } from "../tools/lib/tool-argv.ts"
 import type { MonarchTransaction } from "./client.ts"
 import { accountPages, categoryPages, keyOf, monthOf, monthSlugs, sidecarOf, tagPages } from "./files.ts"
 import type { TransactionLine } from "./files.ts"
-import { AKASHA, MEMORY, monthPagePath } from "./files.ts"
+import { AKASHA, monthPagePath } from "./files.ts"
+import { AKASHA as AKASHA_REPO } from "../repo/roots/roots"
 
 const MONTH_NAMES = [
   "January", "February", "March", "April", "May", "June",
@@ -95,7 +96,7 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
 
 async function existing(slug: string): Promise<readonly TransactionLine[]> {
   try {
-    const text = await readFile(join(MEMORY, sidecarOf(slug)), "utf8")
+    const text = await readFile(join(AKASHA, sidecarOf(slug)), "utf8")
     return text
       .split("\n")
       .filter((one) => one.trim() !== "")
@@ -272,19 +273,9 @@ function tool(
   })
 }
 
-export type Addressed = "akasha" | "memory"
-
-function rootOf(repo: Addressed): string {
-  return repo === "memory" ? MEMORY : AKASHA
-}
-
-export async function through(
-  items: readonly WriteItem[],
-  message: string,
-  repo: Addressed = "memory"
-): Promise<void> {
-  const root = rootOf(repo)
-  const named = ["--repo", repo]
+export async function through(items: readonly WriteItem[], message: string): Promise<void> {
+  const root = AKASHA
+  const named = ["--repo", AKASHA_REPO]
   const standing = items.filter((item) => existsSync(join(root, item.file_path)))
   if (standing.length > 0) {
     const read = await tool(
@@ -303,7 +294,7 @@ export async function through(
     root
   )
   if (wrote.code !== 0) {
-    throw new Error(`landing the ${repo} files exited ${wrote.code}:\n${wrote.said}`)
+    throw new Error(`landing the ${AKASHA_REPO} files exited ${wrote.code}:\n${wrote.said}`)
   }
 }
 

@@ -6,12 +6,9 @@ import type { Document } from "../page/document/types.ts"
 import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "../repo/roots/roots"
 import { stemOf as slugOf } from "../page/name/name"
 
-const MEMORY_REPO = "memory"
-
 const roots = resolveRoots()
 
 export const AKASHA = rootFor(roots, AKASHA_REPO)
-export const MEMORY = rootFor(roots, MEMORY_REPO)
 
 export const MONTHS_FOLDER = "pages/monarch-month"
 
@@ -100,7 +97,7 @@ export async function tagPages(): Promise<readonly PageFile[]> {
 }
 
 export async function holdingPages(): Promise<readonly PageFile[]> {
-  return pagesIn(MEMORY, HOLDING_FOLDER)
+  return pagesIn(AKASHA, HOLDING_FOLDER)
 }
 
 export async function directionPages(): Promise<readonly PageFile[]> {
@@ -120,7 +117,7 @@ export function sidecarOf(slug: string): string {
 }
 
 export async function monthSlugs(): Promise<readonly string[]> {
-  return (await readdir(join(MEMORY, MONTHS_FOLDER)))
+  return (await readdir(join(AKASHA, MONTHS_FOLDER)))
     .filter((name) => name.endsWith(`.${MONTH_TYPE}.md`))
     .map((name) => slugOf(name))
     .sort()
@@ -129,7 +126,7 @@ export async function monthSlugs(): Promise<readonly string[]> {
 async function linesOf(slug: string): Promise<readonly TransactionLine[]> {
   let text: string
   try {
-    text = await readFile(join(MEMORY, sidecarOf(slug)), "utf8")
+    text = await readFile(join(AKASHA, sidecarOf(slug)), "utf8")
   } catch {
     return []
   }

@@ -17,7 +17,7 @@ import {
   tagPages,
 } from "./files.ts"
 import type { PageFile } from "./files.ts"
-import type { Addressed, WriteItem } from "./land-files.ts"
+import type { WriteItem } from "./land-files.ts"
 import { through } from "./land-files.ts"
 
 export type Value = string | number | boolean
@@ -76,20 +76,20 @@ export interface Wanted {
   readonly definition: string
 }
 
-function minted(pageTypeSlug: string, slug: string, wanted: Wanted, repo: Addressed): string {
+function minted(pageTypeSlug: string, slug: string, wanted: Wanted, defined: boolean): string {
   const keys = Object.entries(wanted.values).map(([name, held]) => `${name}: ${quoted(held)}`)
   const head = [
     "---",
     `page-type-slug: ${pageTypeSlug}`,
     `title: ${JSON.stringify(wanted.title)}`,
     `slug: ${quoted(slug)}`,
-    ...(repo === "memory" ? [] : [`domain-parent-slug: ${pageTypeSlug}`]),
+    ...(defined ? [`domain-parent-slug: ${pageTypeSlug}`] : []),
     `monarch-id: ${JSON.stringify(wanted.monarchId)}`,
     ...keys,
     "---",
     "",
   ]
-  if (repo === "memory") return head.join("\n")
+  if (!defined) return head.join("\n")
   return [...head, "# Definition", "", `- **${wanted.title}** — ${wanted.definition}`, ""].join("\n")
 }
 
@@ -113,7 +113,7 @@ export async function landing(
   folder: string,
   standing: readonly PageFile[],
   wanted: readonly Wanted[],
-  repo: Addressed = "akasha"
+  defined: boolean = true
 ): Promise<Landing> {
   const byMonarchId = new Map<string, PageFile>()
   const taken = new Set<string>()
@@ -136,7 +136,7 @@ export async function landing(
       slugs.set(one.monarchId, slug)
       items.push({
         file_path: `${folder}/${namedForType(pageTypeSlug, slug)}`,
-        content: minted(pageTypeSlug, slug, one, repo),
+        content: minted(pageTypeSlug, slug, one, defined),
       })
       made.push(slug)
       continue
@@ -239,7 +239,7 @@ export async function landAccountFiles(
   )
   say("account", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} account file(s) from the sync`, "akasha")
+    await through(held.items, `monarch: ${held.items.length} account file(s) from the sync`)
   }
   return held.slugs
 }
@@ -255,7 +255,7 @@ export async function landCategoryFiles(
   )
   say("category", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} category file(s) from the sync`, "akasha")
+    await through(held.items, `monarch: ${held.items.length} category file(s) from the sync`)
   }
   return held.slugs
 }
@@ -266,7 +266,7 @@ export async function landTagFiles(
   const held = await landing("monarch-tag", TAG_FOLDER, await tagPages(), tags.map(tagWanted))
   say("tag", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} tag file(s) from the sync`, "akasha")
+    await through(held.items, `monarch: ${held.items.length} tag file(s) from the sync`)
   }
   return held.slugs
 }
@@ -279,11 +279,11 @@ export async function landHoldingFiles(
     HOLDING_FOLDER,
     await holdingPages(),
     holdings.map((one) => holdingWanted(one.accountSlug, one.holding)),
-    "memory"
+    false
   )
   say("holding", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} holding file(s) from the sync`, "memory")
+    await through(held.items, `monarch: ${held.items.length} holding file(s) from the sync`)
   }
   return held.slugs
 }
