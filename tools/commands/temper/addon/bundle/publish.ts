@@ -47,7 +47,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout to build from and write the tag into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout to build from and write the tag into. Defaults to $CODE_ROOT, else this repository.",
     },
     {
       name: "--registry",
@@ -61,13 +61,13 @@ export const help: CommandHelp = {
       description: "Build and hash, then stop. Push nothing and write nothing.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [
     { code: 2, meaning: "the build produced no zip, or produced one this could not read" },
     { code: 3, meaning: "the build, the image assembly or the push failed or ran past its ceiling" },
   ],
   examples: [
-    "ops temper addon bundle publish --code-root ~/repos/code",
+    "ops temper addon bundle publish --code-root ~/repos/akasha",
     "ops temper addon bundle publish --dry-run",
   ],
 }

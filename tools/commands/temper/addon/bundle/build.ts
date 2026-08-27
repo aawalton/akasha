@@ -29,7 +29,7 @@ const ENTRY_MTIME = Date.UTC(2000, 0, 1)
 
 export const help: CommandHelp = {
   description:
-    "Pack what already stands in a code checkout's `packages/temper/addons/dist/` into `temper-addons.zip`, beside a `version.txt` naming the commit it was built at. Nothing is compiled here: an addon with nothing in `dist/` is refused rather than silently left out of the archive players download.\n" +
+    "Pack what already stands in a checkout's `packages/temper/addons/dist/` into `temper-addons.zip`, beside a `version.txt` naming the commit it was built at. Nothing is compiled here: an addon with nothing in `dist/` is refused rather than silently left out of the archive players download.\n" +
     "\n" +
     "Every addon on the roster is packed, whether or not anything depends on it, along with each sibling folder a manifest declares. A dependency naming something the roster does not hold is an addon the player installs themselves, and is reported rather than packed.\n" +
     "\n" +
@@ -58,7 +58,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout packed from. The addon resolver this reads is loaded from the main checkout either way.",
+        "The checkout packed from (defaults to $CODE_ROOT, else this repository). The addon resolver this reads is loaded from the main checkout either way.",
     },
   ],
   examples: ["ops temper addon bundle build --sha $(git rev-parse HEAD)"],

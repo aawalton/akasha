@@ -46,17 +46,17 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout to write the generated file into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout to write the generated file into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [
     {
       code: 3,
       meaning: "the lucide release was not fetched within the ceiling, or did not unpack",
     },
   ],
-  examples: ["ops page icon-search-index generate --code-root ~/repos/code"],
+  examples: ["ops page icon-search-index generate --code-root ~/repos/akasha"],
 }
 
 function addStrings(set: Set<string>, value: unknown): undefined {
