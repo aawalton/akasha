@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Graph edge deriver"
 slug: graph-edge-deriver
 domain-parent-slug: domain/graph-deriver
-required-reading-slugs:
-  - page-type/old-graph-edge
 ---
 
 # Definition
