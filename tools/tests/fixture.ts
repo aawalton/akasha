@@ -88,9 +88,10 @@ export function installPages(root: string, relPaths: readonly string[]): void {
 export function fixture(): Fixture {
   const root = mkdtempSync(`${SCRATCH}/govtest-root-`)
   installRefusals(root)
-  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
-  // a child process pointed here loads `roots.ts` and throws before the code under test speaks.
-  installRepos(root)
+  // NO REPO PAGES BY DEFAULT. A child process pointed here needs them — `roots.ts` reads them at
+  // import to say which repositories there are — but a test running in this process does not, and
+  // installing them for everybody puts two documents into every fixture that walks its own tree.
+  // A test that spawns a child calls `installRepos(at.root)` for itself.
   // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git` —
   // so an un-inited fixture is answered as no akasha at all and every reader falls through to the
   // live checkout.
