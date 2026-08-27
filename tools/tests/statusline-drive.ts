@@ -31,6 +31,10 @@ export function sandbox(): Sandbox {
   // both load `roots.ts`, which throws at import when this tree holds none — silently, the script
   // discarding their output, so the line reads `[0]` and nothing is kept beside the seat.
   installRepos(akashaDir(home))
+  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git` —
+  // so an un-inited tree is answered as no akasha at all, `seatDirs()` comes back empty, and the
+  // seat pages written just below are never seen.
+  Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: akashaDir(home) })
   active = { home }
   return active
 }
