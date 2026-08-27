@@ -2,7 +2,7 @@ import { afterEach, beforeEach, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { addonPath, addonSource, examined, type Subject } from "../lib/temper-addon-lua.ts"
 
-const REF = "packages/temper/somewhere/src/subject.ts"
+const REF = "temper/somewhere/src/subject.ts"
 
 const SUBJECT: Subject = { ref: REF, holds: ["theThingExamined"] }
 
@@ -10,7 +10,7 @@ let root = ""
 let was: string | undefined
 
 function stands(text: string): void {
-  mkdirSync(`${root}/packages/temper/somewhere/src`, { recursive: true })
+  mkdirSync(`${root}/temper/somewhere/src`, { recursive: true })
   writeFileSync(`${root}/${REF}`, text, "utf8")
 }
 

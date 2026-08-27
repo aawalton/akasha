@@ -28,23 +28,23 @@ export const BUILD_IDS_SNAPSHOT_RESULT = z.object({
 })
 
 const ERRORS_TYPES: Subject = {
-  ref: "packages/temper/shared/capture/errors/core/src/types.ts",
+  ref: "temper/shared-capture-errors-core/src/types.ts",
   holds: ["ErrorsPayload"],
 }
 
 const ERRORS_CONSTANTS: Subject = {
-  ref: "packages/temper/shared/capture/errors/addon/src/constants.ts",
+  ref: "temper/shared-capture-errors-addon/src/constants.ts",
   holds: ["errorsCaptureDescriptor"],
 }
 
 const ERRORS_CAPTURE: Subject = {
-  ref: "packages/temper/shared/capture/errors/addon/src/error-capture.ts",
+  ref: "temper/shared-capture-errors-addon/src/error-capture.ts",
   holds: ["classifyError", "captureError", "setSavedVariablesAccessor"],
 }
 
 export const SUBJECTS: readonly Subject[] = [ERRORS_TYPES, ERRORS_CONSTANTS, ERRORS_CAPTURE]
 
-const ESO_TYPES_GLOB = `${addonPath("packages/temper/addons/types/eso")}/**/*.d.ts`
+const ESO_TYPES_GLOB = `${addonPath("temper/addons/types/eso")}/**/*.d.ts`
 
 const stripExports = (s: string): string => s.replace(/^import .*$/gm, "").replace(/\bexport /g, "")
 

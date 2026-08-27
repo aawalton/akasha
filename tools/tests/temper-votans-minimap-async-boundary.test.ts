@@ -4,7 +4,7 @@ import { join, relative } from "node:path"
 import { z } from "zod"
 import { codeRoot } from "../lib/code-root.ts"
 
-const SRC_REL = "packages/temper/game/navigation/addon/src/votans-minimap"
+const SRC_REL = "temper/game-navigation-addon/src/votans-minimap"
 
 const SRC_DIR = join(codeRoot(), SRC_REL)
 
