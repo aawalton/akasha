@@ -7,7 +7,7 @@ files: akasha:**/*.step.md
 body-shape-slug: empty
 slug: step
 domain-parent-slug: page-type/workflow
-named-for: "{workflow-seq}-{name}"
+named-for: "{seq}"
 next-seq: 13782
 mortal: true
 ---
