@@ -17,9 +17,9 @@ const PAGE_AT = "pages/page-type/page.page-type.md"
 const DOMAIN_SHAPE = "domain"
 
 const standing: Record<string, string> = {
-  [PAGE_AT]: textAt(roots.instructions, PAGE_AT)!,
-  [DOMAIN_AT]: textAt(roots.instructions, DOMAIN_AT)!,
-  [DOMAIN_SHAPE_AT]: textAt(roots.instructions, DOMAIN_SHAPE_AT)!,
+  [PAGE_AT]: textAt(roots.akasha, PAGE_AT)!,
+  [DOMAIN_AT]: textAt(roots.akasha, DOMAIN_AT)!,
+  [DOMAIN_SHAPE_AT]: textAt(roots.akasha, DOMAIN_SHAPE_AT)!,
 }
 
 function fileTreeOf(files: Record<string, string>): FileTree {

@@ -3,7 +3,7 @@ import { describe, expect, test } from "bun:test"
 import { messagePageAddress, personBehindHandlerSeat } from "../lib/message-page-address.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
-const ROOT = resolveRoots().instructions
+const ROOT = resolveRoots().akasha
 
 const ID = "019ff7d3-64eb-7461-915f-86e3404857d6"
 

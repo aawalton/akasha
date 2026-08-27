@@ -17,7 +17,7 @@ const INITIATIVE_SHAPE = "pages/page-body-shape/initiative.page-body-shape.md"
 const roots = resolveRoots()
 
 function shapeText(): string {
-  const text = textAt(roots.instructions, INITIATIVE_SHAPE)
+  const text = textAt(roots.akasha, INITIATIVE_SHAPE)
   expect(text).not.toBeNull()
   return text!
 }

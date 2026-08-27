@@ -7,7 +7,7 @@ import { parse } from "../../../page/document/parse.ts"
 import { print } from "./print.ts"
 import type { Document, FrontmatterValue, Scalar } from "../../../page/document/types.ts"
 
-const ROOT = resolveRoots().instructions
+const ROOT = resolveRoots().akasha
 const INITIATIVE = "pages/page-body-shape/initiative.page-body-shape.md"
 
 const source = (relPath: string): string => readFileSync(`${ROOT}/${relPath}`, "utf8")

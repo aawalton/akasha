@@ -7,7 +7,7 @@ import { parse } from "../../../page/document/parse.ts"
 import { print } from "./print.ts"
 import type { Document, FrontmatterValue, Inline, Scalar, Section, Span } from "../../../page/document/types.ts"
 
-const ROOT = resolveRoots().instructions
+const ROOT = resolveRoots().akasha
 
 const SUSPENDED: readonly string[] = []
 

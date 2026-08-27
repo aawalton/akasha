@@ -22,7 +22,7 @@ function instrument(): { readonly tsc: string; readonly typeRoot: string } {
 
 function emitted(): readonly Declaration[] {
   const { tsc, typeRoot } = instrument()
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const dir = realpathSync(mkdtempSync("/var/tmp/supervisor-types-surface-"))
   try {
     writeFileSync(

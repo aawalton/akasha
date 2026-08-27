@@ -158,7 +158,7 @@ describe("the pages standing in the instructions repo", () => {
       const type = owners[0]!
       const shape = shapeFor(type, tree)
       expect(shape.why).toBeNull()
-      const text = textAt(roots.instructions, relPath)!
+      const text = textAt(roots.akasha, relPath)!
       const { above, why } = aboveOf(relPath, text, tree)
       expect(why).toBeNull()
       expect(refusals(shape, relPath, text, above!)).toEqual([])

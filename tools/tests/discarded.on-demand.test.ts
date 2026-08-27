@@ -98,7 +98,7 @@ function readThrough(pipeline: (command: string, out: string) => string): Ran {
   const dir = mkdtempSync(`${tmpdir()}/discarded-command-`)
   seatStanding()
   try {
-    const root = resolveRoots().instructions
+    const root = resolveRoots().akasha
     const out = `${dir}/out.txt`
     const command = `bun ${root}/tools/ops/cli.ts read --file-path ${SUBJECT}`
     const ran = Bun.spawnSync(["bash", "-c", pipeline(command, out)], {

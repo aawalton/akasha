@@ -2,7 +2,7 @@
 import { describe, expect, test } from "bun:test"
 import { resolveRoots } from "../../repo/roots/roots"
 
-const root = resolveRoots().instructions
+const root = resolveRoots().akasha
 
 const NAMED: readonly (readonly [string, string])[] = [
   ["tools/commands/reminder/set.ts", "ops reminder set"],

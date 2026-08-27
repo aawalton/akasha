@@ -10,7 +10,7 @@ const roots = resolveRoots()
 const tree = diskFileTree(roots)
 
 function shapeAt(at: string): Shape {
-  const type = pageTypeAt(at, textAt(roots.instructions, at)!)
+  const type = pageTypeAt(at, textAt(roots.akasha, at)!)
   if (type === null) throw new Error(`${at} declares no page type this reads`)
   return shapeFor(type, tree)
 }
